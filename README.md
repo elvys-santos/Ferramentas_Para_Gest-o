@@ -1,4 +1,4 @@
-# Ferramentas_Para_Gest-o
+# Ferramentas_Para_Gestao
 Discursaremos sobre a Matriz de Raci e sua aplicação na Gestão de Projetos, Também deixarei um planhilha para a realização da Matriz de ```RACI```
 ## ```Matriz de RACI```
 
